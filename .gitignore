@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/sassdoc
+.DS_Store
+.sass-cache
+npm-debug.log
