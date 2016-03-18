@@ -1,7 +1,7 @@
 {
   "name": "sassdoc-theme-upbase",
   "description": "SassDoc theme for Upbase by Upstatement",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist",
   "keywords": [
     "sassdoc-theme"
