@@ -4,12 +4,17 @@
 
 Based on the [SassDoc Default Theme](https://github.com/SassDoc/sassdoc-theme-default).
 
-## Publishing to NPM
+## Setup
 
 ```
-npm install -g grunt-cli
+# Install build dependencies
+gem install sass
 npm install
-grunt dist
-npm publish
+
+# Build theme
+make all
+
+# Publish to NPM
+make publish
 ```
 
